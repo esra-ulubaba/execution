@@ -1,4 +1,4 @@
-# 🤖 EXECUTION3: El-Ceziri 8-Bit İşlemci Simülasyonu
+# 🤖 EXECUTION: El-Ceziri 8-Bit İşlemci Simülasyonu
 
 Bu proje, verilen Assembly komutları ve mimari kısıtlamaları temel alarak 8-bitlik El-Ceziri işlemcisinin yürütme (Execution) mantığını simüle etmektedir.
 
